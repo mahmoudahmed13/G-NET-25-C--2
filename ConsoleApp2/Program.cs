@@ -132,6 +132,16 @@
             //Console.WriteLine(x); // 0
 
             #endregion
+
+            #region  Q14: Compare results and explain each result :
+
+            //string? s = null;
+            // A
+            // int a = int.Parse(s); // would throw exciption
+            // B
+            //int b = Convert.ToInt32(s); //handle null so x becomes 0 
+            //Console.WriteLine(b);
+            #endregion
         }
     }
 }
