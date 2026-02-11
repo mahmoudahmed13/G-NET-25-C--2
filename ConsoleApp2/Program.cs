@@ -102,6 +102,21 @@
             //int length = name2?.Length ?? 0; // lengh = 0 >> cause Null Coalising print this value 0 if value equal Null
             #endregion
 
+            #region Q11: What’s wrong with this “safe” code and how can we solve it?
+            //string? s = null;
+            ////int x = int.Parse(s ?? "0");
+            //int? x = int.Parse(s ?? "0");
+            //if (x.HasValue)
+            //{
+            //    Console.WriteLine(x.Value);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid value");
+            //}
+
+
+            #endregion
         }
     }
 }
