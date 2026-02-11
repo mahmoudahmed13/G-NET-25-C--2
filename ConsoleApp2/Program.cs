@@ -49,6 +49,13 @@
 
             #endregion
 
+            #region Q6: What will this print and explain why ?
+            //object o = 10;
+            //int a = (int)o; // a = 10 after Exciplicit casting o object will assign value to a int
+            //Console.WriteLine(a + 1); // 11 
+
+            #endregion
+
         }
     }
 }
