@@ -124,6 +124,14 @@
             //tells the compiler: "I know this value is not null." but s is nullabe
 
             #endregion
+
+            #region Q13: What will this print?
+
+            //string? s = null;
+            //int x = Convert.ToInt32(s);//Convert >> handle null safely — it returns 0
+            //Console.WriteLine(x); // 0
+
+            #endregion
         }
     }
 }
