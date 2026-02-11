@@ -142,6 +142,12 @@
             //int b = Convert.ToInt32(s); //handle null so x becomes 0 
             //Console.WriteLine(b);
             #endregion
+
+            #region  Q15: Complete the line to print "Guest" when user is null, otherwise print the user name in uppercase:
+
+            //string? user = null;
+            //Console.WriteLine(user?.ToUpper() ?? "Guest");
+            #endregion
         }
     }
 }
