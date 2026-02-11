@@ -27,6 +27,13 @@
 
             #endregion
 
+            #region Q4: What happens here and why ?
+            //string s = "12a";
+            //int x = int.Parse(s);
+            //Console.WriteLine(x);// FormatExciption
+            ////Can't convert string format to int
+            #endregion
+
         }
     }
 }
