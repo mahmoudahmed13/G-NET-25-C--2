@@ -96,6 +96,12 @@
 
             #endregion
 
+            #region Q10: What will this print and explain the process ?
+
+            //string? name2 = null;
+            //int length = name2?.Length ?? 0; // lengh = 0 >> cause Null Coalising print this value 0 if value equal Null
+            #endregion
+
         }
     }
 }
