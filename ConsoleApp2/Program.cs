@@ -88,6 +88,14 @@
             //}
             #endregion
 
+
+            #region Q9: What will this print and explain why ?
+
+            //string? name = null;
+            //Console.WriteLine(name?.Length); //empty space cause string name is nullable
+
+            #endregion
+
         }
     }
 }
