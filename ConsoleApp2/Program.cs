@@ -72,6 +72,22 @@
             //}
             #endregion
 
+            #region Q8: Fix this to avoid exceptions and print - 1 if conversion isn’t possible?
+
+            //object o = 10;
+            //try
+            //{
+            //    long x =(long)(int)o;
+            //    Console.WriteLine(x);
+
+            //}
+            //catch (Exception)
+            //{
+
+            //    Console.WriteLine(-1);
+            //}
+            #endregion
+
         }
     }
 }
