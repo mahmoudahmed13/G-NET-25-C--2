@@ -34,6 +34,21 @@
             ////Can't convert string format to int
             #endregion
 
+            #region Q5: Complete the code from the previous question so it prints Invalid if conversion into int fails, otherwise prints the number
+
+            //string s = "12a";
+            //if(int.TryParse(s , out int x))
+            //{
+            //    Console.WriteLine($"Valid Number: {x}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid Number");
+            //}
+
+
+            #endregion
+
         }
     }
 }
