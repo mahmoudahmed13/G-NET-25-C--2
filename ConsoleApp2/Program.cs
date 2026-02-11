@@ -56,6 +56,22 @@
 
             #endregion
 
+            #region Q7: What will this print and explain why and if there is a problem handle it ?
+            //object o = 10;
+            ////long x = (long)o;//Invalid CastingExciption 
+            ////long x = (long) (int)o;  //Unbox first, then convert
+            ////Console.WriteLine(x); 
+            //try
+            //{
+            //    long x = (long)o;
+            //    Console.WriteLine(x);
+            //}
+            //catch (Exception)
+            //{
+            //    Console.WriteLine("Invalid"); ;
+            //}
+            #endregion
+
         }
     }
 }
