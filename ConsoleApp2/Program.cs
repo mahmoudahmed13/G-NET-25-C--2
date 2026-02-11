@@ -117,6 +117,13 @@
 
 
             #endregion
+
+            #region Q12: What happens here and if there is a problem, handle it
+            //string? s = null;
+            //Console.WriteLine(s!.Length); //Null Forgivin Operator(!) remove warning
+            //tells the compiler: "I know this value is not null." but s is nullabe
+
+            #endregion
         }
     }
 }
